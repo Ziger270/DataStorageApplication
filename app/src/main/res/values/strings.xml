@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataStorageApplication</string>
+    <string name="name">Имя Фамилия</string>
+    <string name="spec">Специальность</string>
+    <string name="add">Добавить</string>
+    <string name="next">Продолжить</string>
+    <string name="study">Прошел аттестацию</string>
+    <string name="fio">Разработал Бисиров А.В. РИБО-02-22 Вариант 3</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+    <string name="insert_error">при добавлении произошла ошибка</string>
+    <string name="insert_succes">Запись успешно добавление</string>
+</resources>
